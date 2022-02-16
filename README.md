@@ -17,3 +17,4 @@ SELECT nom FROM `personnage` INNER JOIN voiture WHERE id_sport = sport.id
 
 Q4)
 
+SELECT p.* FROM `personnage` AS personnage
